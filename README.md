@@ -4,8 +4,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RKXnuEzs2KKBqa0K0B/giphy.gif" width="100"/>
   <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="www.linkedin.com/in/nkundimana-eric-14b11b224">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a>
+      <a href ="macnkunda@gmail.com">
+        <img src="https://img.shields.io/badge/mail-red?style=for-the-badge&logo=mail&logoColor=white" alt="Mail Badge"/>
+      </a>
+      <a href="#"
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      </a>
 </div>
 </div>
