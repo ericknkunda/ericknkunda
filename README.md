@@ -1,6 +1,4 @@
 <h1 align="center" color="blue">Meet Eric Nkunda</h1>
-
-<h2 align="center">About Me</h2>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RKXnuEzs2KKBqa0K0B/giphy.gif" width="100"/>
   <div id="badges">
@@ -16,7 +14,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hello developers
+  Hello, developers 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>      
 </div>
